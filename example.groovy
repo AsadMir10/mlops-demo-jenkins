@@ -15,7 +15,7 @@ def build() {
 
 def test() {
   println "Test."
-  sh '/Users/shehryarsohail-nu/anaconda3/envs/cvlab/bin/python test.py'
+  sh '/Users/asadmir/python test.py'
 }
   
 return this
